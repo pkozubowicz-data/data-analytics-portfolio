@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-**Autor:** Piotr Kozubowicz  
+**Autor:** Przemysław Kozubowicz  
 **Narzędzia:** SQL (Google BigQuery) · Power BI · Python *(wkrótce)*  
 **Kontakt:** [LinkedIn](https://linkedin.com/in/TWOJ-PROFIL) · [GitHub](https://github.com/pkozubowicz-data)
 
