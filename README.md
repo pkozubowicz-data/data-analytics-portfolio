@@ -28,19 +28,19 @@ Każdy projekt zawiera zapytania SQL, dashboard Power BI oraz opis wniosków biz
 ## Projekt 05 — Analiza sprzedaży e-commerce
 
 **Dataset:** `bigquery-public-data.thelook_ecommerce`  
-**Okres danych:** styczeń 2022 – czerwiec 2026
+**Okres danych:** styczeń 2022 – sierpień 2026
 
 ### Zakres analizy
 - 📈 Sprzedaż miesięczna, AOV, wzrost zamówień 8× w 4 latach
 - 🛒 Analiza koszyka — cross-sell, rozkład liczby produktów
 - 📅 Trendy sezonowe — MoM, YoY, sezonowość miesięczna
-- 👥 Segmentacja klientów RFM — 8 segmentów, 66K klientów
+- 👥 Segmentacja klientów RFM — 8 segmentów, 62K klientów
 
 ### Kluczowe wyniki
-- Przychód total: **~8.2M USD**
+- Przychód total: **~7.39M USD**
 - AOV stabilne na poziomie **~86 USD** przez cały okres
-- **69.7%** zamówień to single-item — potencjał cross-sell
-- Segment **At Risk** (avg wydatki 202 USD) — priorytet win-back
+- **69.9%** zamówień to single-item — potencjał cross-sell
+- Segment **At Risk** (avg wydatki 203 USD) — priorytet win-back
 
 ### Pliki
 ```
