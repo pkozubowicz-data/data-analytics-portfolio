@@ -38,7 +38,7 @@ Każdy projekt zawiera zapytania SQL, dashboard Power BI oraz opis wniosków biz
 
 ### Kluczowe wyniki
 - Przychód total: **~7.39M USD**
-- AOV stabilne na poziomie **~86 USD** przez cały okres
+- AOV stabilne na poziomie **~87 USD** przez cały okres
 - **69.9%** zamówień to single-item — potencjał cross-sell
 - Segment **At Risk** (avg wydatki 203 USD) — priorytet win-back
 
